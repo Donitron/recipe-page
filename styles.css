@@ -53,7 +53,9 @@ h2 {
   margin-top: 2rem;
 }
 
-h3 {
+.prep-title {
+  font-weight: 700;
+  font-size: 1.25rem;
   color: hsl(332, 51%, 32%);
   margin-top: 0;
 }
@@ -63,7 +65,6 @@ li {
   line-height: 150%;
 }
 
-main,
 section {
   margin: 2rem;
 }
@@ -86,7 +87,7 @@ ol {
 
 li {
   margin: 0.75em 0;
-  padding-left: 1.5em;
+  padding-left: 1em;
 }
 
 li span {
